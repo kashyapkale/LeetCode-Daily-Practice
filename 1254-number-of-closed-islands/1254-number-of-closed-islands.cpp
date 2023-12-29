@@ -26,15 +26,7 @@ private:
         for(int k = 0; k < 4; k++){
             int nextX = currX + xDir[k];
             int nextY = currY + yDir[k];
-            if(!isValid(nextX, nextY, grid)){
-                dp[currX][currY] = 0;
-                return false; 
-            } else if(dp[nextX][nextY] == -1){
-                if(!dfs(grid, dp, nextX, nextY)){
-                    dp[currX][currY] = 0;
-                    return false; 
-                }
-            } else if(dp[nextX][nextY] == 0){
+            if(!isValid(nextX, nextY, grid) || dp[nextX][nextY] == 0 || (dp[nextX][nextY] == -1 && !dfs(grid, dp, nextX, nextY))){
                 dp[currX][currY] = 0;
                 return false; 
             } 
