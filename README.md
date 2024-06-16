@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/kashyapkale/Graphs-Practice/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/kashyapkale/Graphs-Practice/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kashyapkale/Graphs-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kashyapkale/Graphs-Practice/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0330-patching-array) |
 | [0523-continuous-subarray-sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/kashyapkale/Graphs-Practice/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/kashyapkale/Graphs-Practice/tree/master/0876-hand-of-straights) |
