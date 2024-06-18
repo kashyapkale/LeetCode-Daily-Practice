@@ -34,10 +34,6 @@ public:
                     );
                 if(it == difficultyToProfitPairs.end() || it->first != worker){
                     --it;
-                } else {
-                    /*while(((it+1 != difficultyToProfitPairs.end())) && (it+1)->first == it->first){
-                        ++it;
-                    }*/
                 }
                 ans += it->second;
             }
