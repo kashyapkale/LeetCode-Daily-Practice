@@ -8,12 +8,6 @@ private:
         return p1.first < p2.first;
     }
 
-    void print_arr(vector<pair<int, int>> &vec){
-        for(auto it : vec){
-            cout<<it.first<<" "<<it.second<<endl;
-        }
-    }
-
 public:
     int maxProfitAssignment(vector<int>& difficulty, vector<int>& profit, vector<int>& workers) {
         vector<pair<int, int>> difficultyToProfitPairs;
@@ -30,8 +24,6 @@ public:
             current_profit = max(difficultyToProfitPairs[i].second, current_profit);
             difficultyToProfitPairs[i].second = current_profit;
         }
-        //print_arr(difficultyToProfitPairs);
-        //cout<<"--------"<<endl;
         int ans = 0;
         for(int worker : workers){
             if(difficultyToProfitPairs[0].first <= worker){
@@ -46,8 +38,7 @@ public:
                     while(((it+1 != difficultyToProfitPairs.end())) && (it+1)->first == it->first){
                         ++it;
                     }
-                } 
-                //cout<<it->first<<" "<<it->second<<" "<<endl;
+                }
                 ans += it->second;
             }
         }
