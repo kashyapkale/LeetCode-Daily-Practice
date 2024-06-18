@@ -2,7 +2,7 @@ class Solution {
 private:
     static bool pair_comparator(pair<int, int> &p1, pair<int, int> &p2){
         if(p1.first == p2.first){
-            return p1.second < p2.second;
+            return p1.second > p2.second;
         }
 
         return p1.first < p2.first;
@@ -35,9 +35,9 @@ public:
                 if(it == difficultyToProfitPairs.end() || it->first != worker){
                     --it;
                 } else {
-                    while(((it+1 != difficultyToProfitPairs.end())) && (it+1)->first == it->first){
+                    /*while(((it+1 != difficultyToProfitPairs.end())) && (it+1)->first == it->first){
                         ++it;
-                    }
+                    }*/
                 }
                 ans += it->second;
             }
