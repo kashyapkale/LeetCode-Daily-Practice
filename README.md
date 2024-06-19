@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kashyapkale/Graphs-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kashyapkale/Graphs-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/1044-find-common-characters) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashyapkale/Graphs-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kashyapkale/Graphs-Practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3442-maximum-total-reward-using-operations-i) |
 # Sorting
@@ -84,3 +85,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/kashyapkale/Graphs-Practice/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashyapkale/Graphs-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
