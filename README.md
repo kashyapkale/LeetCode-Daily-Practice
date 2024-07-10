@@ -92,9 +92,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/kashyapkale/Graphs-Practice/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kashyapkale/Graphs-Practice/tree/master/1803-average-waiting-time) |
 ## Simulation
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/kashyapkale/Graphs-Practice/tree/master/1803-average-waiting-time) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
