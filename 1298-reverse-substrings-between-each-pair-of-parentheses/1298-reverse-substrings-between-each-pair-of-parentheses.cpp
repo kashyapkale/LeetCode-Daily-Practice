@@ -3,7 +3,6 @@ public:
     string reverseParentheses(string s) {
         string ans = "";
         stack<int> op;
-        int index = 0;
         for(char ch : s){
             if(ch == '('){
                 op.push(ans.length());
@@ -13,11 +12,8 @@ public:
                 reverse(ans.begin() + top_index, ans.end());
             } else {
                 ans += ch;
-            } 
-            
-            index++;
+            }   
         }
-
         return ans;
     }
 };
