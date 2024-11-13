@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1293-three-consecutive-odds](https://github.com/kashyapkale/Graphs-Practice/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
@@ -129,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
