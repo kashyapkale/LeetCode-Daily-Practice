@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1293-three-consecutive-odds](https://github.com/kashyapkale/Graphs-Practice/tree/master/1293-three-consecutive-odds) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
 |  |
@@ -134,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
