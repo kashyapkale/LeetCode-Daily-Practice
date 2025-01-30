@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
 | [1293-three-consecutive-odds](https://github.com/kashyapkale/Graphs-Practice/tree/master/1293-three-consecutive-odds) |
@@ -171,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
