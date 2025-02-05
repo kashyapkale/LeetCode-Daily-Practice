@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Union Find
 |  |
 | ------- |
@@ -181,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/kashyapkale/Graphs-Practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
