@@ -3,7 +3,6 @@ private:
 
     bool isStringValid(string s){
         stack<char> st;
-        cout<<s<<endl;
         if(s[0] == ')'){
             return false;
         }
