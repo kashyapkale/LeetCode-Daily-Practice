@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kashyapkale/Graphs-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kashyapkale/Graphs-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
 | [0518-coin-change-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0518-coin-change-ii) |
 ## Tree
 |  |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
