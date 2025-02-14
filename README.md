@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
 | [0518-coin-change-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0518-coin-change-ii) |
 | [1293-three-consecutive-odds](https://github.com/kashyapkale/Graphs-Practice/tree/master/1293-three-consecutive-odds) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kashyapkale/Graphs-Practice/tree/master/1803-average-waiting-time) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/kashyapkale/Graphs-Practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -213,4 +216,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
