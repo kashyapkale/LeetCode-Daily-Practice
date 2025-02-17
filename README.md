@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kashyapkale/Graphs-Practice/tree/master/0043-multiply-strings) |
 | [1803-average-waiting-time](https://github.com/kashyapkale/Graphs-Practice/tree/master/1803-average-waiting-time) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## String
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kashyapkale/Graphs-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/kashyapkale/Graphs-Practice/tree/master/0043-multiply-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kashyapkale/Graphs-Practice/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/kashyapkale/Graphs-Practice/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Counting
