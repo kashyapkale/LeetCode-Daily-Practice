@@ -17,7 +17,6 @@ public:
             } else {
                 dp[i] = INT_MAX;
             }
-            cout<<dp[i]<<endl;
         }
 
         return dp[0];
