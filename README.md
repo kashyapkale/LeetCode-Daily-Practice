@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
 |  |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kashyapkale/Graphs-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
 | [0518-coin-change-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0518-coin-change-ii) |
 ## Tree
 |  |
