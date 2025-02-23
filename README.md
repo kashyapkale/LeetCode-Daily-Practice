@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/kashyapkale/Graphs-Practice/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/kashyapkale/Graphs-Practice/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/kashyapkale/Graphs-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kashyapkale/Graphs-Practice/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/kashyapkale/Graphs-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kashyapkale/Graphs-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
 |  |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
 | [0518-coin-change-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kashyapkale/Graphs-Practice/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
