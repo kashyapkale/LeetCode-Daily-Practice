@@ -38,7 +38,6 @@ public:
                 if(it != star_set.end()){
                     star_set.erase(it);
                 } else{
-                    cout<<"3. ret false";
                     return false;
                 }
             }
