@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
 | [0518-coin-change-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0518-coin-change-ii) |
+| [0739-daily-temperatures](https://github.com/kashyapkale/Graphs-Practice/tree/master/0739-daily-temperatures) |
 | [1293-three-consecutive-odds](https://github.com/kashyapkale/Graphs-Practice/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/kashyapkale/Graphs-Practice/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/kashyapkale/Graphs-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/kashyapkale/Graphs-Practice/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -258,4 +260,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kashyapkale/Graphs-Practice/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kashyapkale/Graphs-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
