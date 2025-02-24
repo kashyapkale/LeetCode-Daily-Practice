@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kashyapkale/Graphs-Practice/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/kashyapkale/Graphs-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kashyapkale/Graphs-Practice/tree/master/0056-merge-intervals) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
