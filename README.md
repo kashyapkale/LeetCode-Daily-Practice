@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/kashyapkale/Graphs-Practice/tree/master/0739-daily-temperatures) |
 | [1293-three-consecutive-odds](https://github.com/kashyapkale/Graphs-Practice/tree/master/1293-three-consecutive-odds) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Union Find
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kashyapkale/Graphs-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kashyapkale/Graphs-Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Counting
 |  |
@@ -224,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kashyapkale/Graphs-Practice/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -264,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kashyapkale/Graphs-Practice/tree/master/0739-daily-temperatures) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
