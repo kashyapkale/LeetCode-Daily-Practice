@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/kashyapkale/Graphs-Practice/tree/master/1803-average-waiting-time) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3429-special-array-i) |
 ## Simulation
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Union Find
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/kashyapkale/Graphs-Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/kashyapkale/Graphs-Practice/tree/master/0143-reorder-list) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
 |  |
 | ------- |
