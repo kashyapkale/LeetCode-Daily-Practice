@@ -1,33 +1,27 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        vector<int> preArray;
-        vector<int> postArray;
-        vector<int> equalArray;
-
+        int len = nums.size();
+        vector<int> ans(len);
+        int left = 0;
+        int right = len - 1;
+        
         for(int num : nums){
             if(num < pivot){
-                preArray.push_back(num);
+                ans[left] = num;
+                left++;
             } else if(num > pivot){
-                postArray.push_back(num);
-            } else{
-                equalArray.push_back(num);
-            }
+                ans[right] = num;
+                right--;
+            } 
         }
 
-        vector<int> ans;
-        for(int num : preArray){
-            ans.push_back(num);
+        while(left <= right){
+            ans[left] = pivot;
+            left++;
         }
 
-        for(int num : equalArray){
-            ans.push_back(num);
-        }
-
-        for(int num : postArray){
-            ans.push_back(num);
-        }
-
+        reverse(ans.begin()+right+1, ans.end());
         return ans;
     }
 };
