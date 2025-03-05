@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kashyapkale/Graphs-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/kashyapkale/Graphs-Practice/tree/master/2649-count-total-number-of-colored-cells) |
 ## Counting
 |  |
 | ------- |
