@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kashyapkale/Graphs-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/kashyapkale/Graphs-Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/kashyapkale/Graphs-Practice/tree/master/0143-reorder-list) |
 | [1894-merge-strings-alternately](https://github.com/kashyapkale/Graphs-Practice/tree/master/1894-merge-strings-alternately) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kashyapkale/Graphs-Practice/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
