@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kashyapkale/Graphs-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -219,12 +220,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0572-subtree-of-another-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0572-subtree-of-another-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0572-subtree-of-another-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Function
 |  |
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
