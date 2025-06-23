@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kashyapkale/Graphs-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kashyapkale/Graphs-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
