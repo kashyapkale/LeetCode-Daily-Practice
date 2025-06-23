@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/kashyapkale/Graphs-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/kashyapkale/Graphs-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0518-coin-change-ii) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/kashyapkale/Graphs-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kashyapkale/Graphs-Practice/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/kashyapkale/Graphs-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
