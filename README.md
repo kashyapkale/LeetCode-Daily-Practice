@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kashyapkale/Graphs-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kashyapkale/Graphs-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Combinatorics
@@ -326,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/kashyapkale/Graphs-Practice/tree/master/2610-closest-prime-numbers-in-range) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kashyapkale/Graphs-Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
