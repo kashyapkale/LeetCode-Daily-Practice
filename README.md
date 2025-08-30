@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/kashyapkale/Graphs-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kashyapkale/Graphs-Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/kashyapkale/Graphs-Practice/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kashyapkale/Graphs-Practice/tree/master/0046-permutations) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/kashyapkale/Graphs-Practice/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kashyapkale/Graphs-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kashyapkale/Graphs-Practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kashyapkale/Graphs-Practice/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
