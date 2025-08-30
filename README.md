@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kashyapkale/Graphs-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/kashyapkale/Graphs-Practice/tree/master/0355-design-twitter) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyapkale/Graphs-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kashyapkale/Graphs-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kashyapkale/Graphs-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/kashyapkale/Graphs-Practice/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kashyapkale/Graphs-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/kashyapkale/Graphs-Practice/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kashyapkale/Graphs-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kashyapkale/Graphs-Practice/tree/master/0143-reorder-list) |
+| [0355-design-twitter](https://github.com/kashyapkale/Graphs-Practice/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
