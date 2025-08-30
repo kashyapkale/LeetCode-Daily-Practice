@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/kashyapkale/Graphs-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kashyapkale/Graphs-Practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/kashyapkale/Graphs-Practice/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kashyapkale/Graphs-Practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/kashyapkale/Graphs-Practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyapkale/Graphs-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kashyapkale/Graphs-Practice/tree/master/0217-contains-duplicate) |
