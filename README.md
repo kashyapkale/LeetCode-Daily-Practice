@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Union Find
 |  |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/kashyapkale/Graphs-Practice/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/kashyapkale/Graphs-Practice/tree/master/0355-design-twitter) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
