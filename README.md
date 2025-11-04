@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Union Find
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kashyapkale/Graphs-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/kashyapkale/Graphs-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
