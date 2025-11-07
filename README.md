@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kashyapkale/Graphs-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kashyapkale/Graphs-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyapkale/Graphs-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kashyapkale/Graphs-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kashyapkale/Graphs-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/kashyapkale/Graphs-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kashyapkale/Graphs-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kashyapkale/Graphs-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashyapkale/Graphs-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kashyapkale/Graphs-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kashyapkale/Graphs-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3483-alternating-groups-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/kashyapkale/Graphs-Practice/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyapkale/Graphs-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kashyapkale/Graphs-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/kashyapkale/Graphs-Practice/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kashyapkale/Graphs-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kashyapkale/Graphs-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kashyapkale/Graphs-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -387,4 +392,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/kashyapkale/Graphs-Practice/tree/master/3863-power-grid-maintenance) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kashyapkale/Graphs-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
