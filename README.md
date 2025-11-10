@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kashyapkale/Graphs-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kashyapkale/Graphs-Practice/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kashyapkale/Graphs-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kashyapkale/Graphs-Practice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kashyapkale/Graphs-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kashyapkale/Graphs-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kashyapkale/Graphs-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyapkale/Graphs-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kashyapkale/Graphs-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyapkale/Graphs-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kashyapkale/Graphs-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyapkale/Graphs-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kashyapkale/Graphs-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kashyapkale/Graphs-Practice/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -361,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kashyapkale/Graphs-Practice/tree/master/0739-daily-temperatures) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kashyapkale/Graphs-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
